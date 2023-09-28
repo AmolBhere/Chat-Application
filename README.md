@@ -24,7 +24,7 @@ Set up Guide:
     npm run start
 
 
-7.  Then go back to main folder and go into the frontend folder using command [cd frontend].
+7.  Then open a new terminal (other than the backend server which is running in the previous terminal) in main folder and go into the frontend folder using command [cd frontend].
 8.  Now run this command in terminal	
 
     npm install vite –-save-dev
