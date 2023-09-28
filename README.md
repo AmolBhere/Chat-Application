@@ -7,10 +7,7 @@ University/Institution: Indian Institute of Technology Hyderabad
 Department: Chemical Engineering
 
 
-
-
-
-Chat Application - Documentation
+# Chat Application - Documentation
 Set up Guide:
 
 (All the commands and operations should be done in the vs code)
